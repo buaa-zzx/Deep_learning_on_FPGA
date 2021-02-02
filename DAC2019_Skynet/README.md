@@ -5,7 +5,10 @@
  ```
 https://github.com/TomG008/SkyNet
  ```
-
+# 文件说明
+vivado：FPGA硬件工程   
+HLS：加速IP实现工程  
+pynq：上传至开发板的文件  
 
 
 # 相关教程
