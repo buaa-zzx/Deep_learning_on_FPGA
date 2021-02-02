@@ -1,4 +1,4 @@
-# DAC2019冠军项目skynet复现
+# DAC-SDC2019冠军项目skynet复现
  该项目在2019年的DAC-SDC大赛中取得了冠军，该项目在Ultra96系列FPGA上实现了 0.716 IoU和25.05 FPS，性能优异。本项目将该项目在百度Edgeboard ZU3系列FPGA上进行了复现。  
 
  # 原项目GitHub链接  
