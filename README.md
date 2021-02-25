@@ -5,7 +5,7 @@
 Vivado 2018.3  
 
 # 文件说明
-DAC2019_Skynet: 2019年DAC-SDC大赛冠军作品skynet复现
+DAC2019_Skynet: 2019年DAC-SDC大赛冠军作品skynet复现  
 LetNet: 基于LetNet网络实现手写数字识别加速
 
 # 相关教程
